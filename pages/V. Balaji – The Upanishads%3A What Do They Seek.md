@@ -1,5 +1,4 @@
-# V. Balaji – The Upanishads: What Do They Seek?
-- ## Introduction
+## Introduction
 	- **V. Balaji** is a mathematician specializing in:
 	    * Topological Geometry  
 	    * Algebraic Geometry  
@@ -7,7 +6,6 @@
 	    * To seek the **spiritual and philosophical truths** of the **Vedas** and **Upanishads**
 	    * Interested in understanding **consciousness, self, and reality** through ancient wisdom
 - ## Structure of the Vedas
-  collapsed:: true
 	- ### Rig Veda
 	  * Composed by: **Vyasa**
 	  * Contains:
@@ -34,8 +32,7 @@
 	  * **Aranyakas**:
 	    * Contain **philosophical interpretations** of rituals
 	    * Serve as a bridge between ritualistic Brahmanas and the spiritual Upanishads
-	  
-	  ---
+- ---
 - ## Principal Upanishads (Mukhya Upanishads)
   collapsed:: true
   
@@ -56,6 +53,7 @@
 	  12. **Kaushitaki Upanishad** – Rig Veda  
 	  13. **Maitrayaniya Upanishad** – Yajur Veda
 - ### Notable Themes in Specific Upanishads
+  collapsed:: true
 	- **Brihadaranyaka**:
 	    * Explores **"Neti, Neti"** (Not this, not that)
 	    * Discusses death, rebirth, and the eternal Self  
@@ -81,6 +79,7 @@
 	    * Symbolizes **sitting down near a teacher** to receive spiritual knowledge
 - ---
 - ## V. Balaji’s Approach
+  collapsed:: true
 	- * Emphasizes:
 	    * He is **not an authority** on the subject
 	    * Merely sharing **personal interpretations and insights**
@@ -92,6 +91,7 @@
 	    * The **vibrations of speech** carry their **consciousness forward through time**
 - ---
 - ## Themes in the Upanishads
+  collapsed:: true
 	- ### Light, Vision, and Beauty
 	  * A key verse:
 	    > *"idam śreṣṭham jyotiṣām jyotiḥ; jyotiḥ sarvam idaṃ viśvam bhāsyate"*  
