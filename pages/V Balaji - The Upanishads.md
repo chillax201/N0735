@@ -1,102 +1,93 @@
-- **V Balaji - The Upanishads what do they seek?**
+# V. Balaji – The Upanishads: What Do They Seek?
+- ## Introduction
+  * V. Balaji is a mathematician working in:
+	- Topological geometry
+	- Algebraic geometry
+	  * His real ambition aside from academia:
+	- To understand and find meaning in the **Vedas** and **Upanishads**
+	  
+	  ---
+- ## Structure of the Vedas
+- ### Rig Veda
+  * Written by: **Vyasa**
+  * Composed of: **1057 hymns**
+  * Contains: **10 Mandalas**
+  * Composed in **metrical style** (measures)
+  * Etymology:
+	- "Rik" = a particle of light
+	- Contains approx. **10,200 "rik"s**
+	  * The Rishis who wrote the Mandalas:
+	- Were in awe of the totality of the cosmos
+	- Sought spirituality through questions about the self and the universe
+- ### Yajur Veda
+  * Considered as:
+	- **"Homework"** given to Vyasa's disciples
+	  
+	  ---
+- ## Samhita, Brahmanas, and Aranyakas
   
+  * **Samhita**:
+	- Oldest section of the Rig Veda
+	- Written in metrical form
+	  
+	  * **Brahmanas**:
+	- Focused on **rituals**
+	  
+	  * **Aranyakas**:
+	- Focused on **meditation**
+	  
+	  ---
+- ## Important Upanishads
   
+  1. **Aitareya** *(Rig Veda)*
+  2. **Kausitaki** *(Rig Veda)*
+  3. **Taittiriya** *(Yajur Veda)*
+  4. **Brihadaranyaka** *(Yajur Veda)*
+  5. **Chandogya** *(Sama Veda)*
+  6. **Kena** *(Sama Veda)*
+  7. **Katha** *(story of Nachiketas)*
+  8. **Svetasvatara** *(?)*
+  9. *(?)*
+  10. **Mundaka**
+  11. **Maitri (Maitrayani)**
+  12. **Mandukya**
+  13. **Isha** *(metrical)*
   
-  **introduction to structure of rig vedas and some other vedas**
+  ---
+- ## Etymology of "Upanishad" (as per V. Balaji)
   
+  * Comes from the **Sakalya Samhita**
+  * Meaning:
+	- "The heart’s word or cry"
+	- The outcome of **divine *enthousiasmos*** (inspired ecstasy)
+	  
+	  ---
+- ## V. Balaji’s Approach
   
-  
-  -> brief introduction on what he does ( topo geometry and alg geometry ) but his real ambition in life aside from academia is understanding and finding meaning in the vedas and Upanishads
-- -> first we start with the rig Veda
-  
-  &nbsp;	-> written by Vyasya
-  
-  &nbsp;	-> composes of 1057  hymns
-  
-  &nbsp;	-> the mandalas were written by people who were in awe of the totality of cosmos (spirituality through questions about the self and cosmos)
-  
-  &nbsp;	-> there are ten Manadalas
-  
-  &nbsp;	-> they were written in metrical style as measures
-  
-  &nbsp;	-> "rik" is a is a particle of light etymological speaking
-  
-  &nbsp;	-> there are 10200 "rik"s in the rig veda which have something to do with measures
-  
-  
-  
-  -> yajur veda
-  
-  &nbsp;	-> was kinda like homework given to vyasya's disciple
-  
-  
-  
-  -> brahmanas(ritualistic?) and aranyakas(meditation) were the learnings of Samhita(in prose form)
-  
-  &nbsp;	-> Samhita is the oldest section of rig veda (they were of metric form of writing)
-  
-  
-  
-  -> some important Upanishads :
-  
-  &nbsp;	1.anitareya (rig)
-  
-  &nbsp;	2.Kausitaki (rig)
-  
-  &nbsp;	3.taittinya (yajur)
-  
-  &nbsp;	4.Brihad - Aranyaka (yajur)
-  
-  &nbsp;	5.chandogya (sama)
-  
-  &nbsp;	6.kena (sama)
-  
-  &nbsp;	7.Katha (naciketas)
-  
-  &nbsp;	8.svetaskara (?)
-  
-  &nbsp;	9. (?)
-  
-  &nbsp;	10. mundaka
-  
-  &nbsp;	11.maitryani
-  
-  &nbsp;	12.mandukya
-  
-  &nbsp;	13.isha (metrical)
-  
-  
-  
-  -> Upanishads etymology according to V Balaji :
-  	-> sakalya Samhita
-  
-  &nbsp;	-> the heart's word or cry, which is the outcome of a divine enthusiasmos 
-  
-  
-  
-  -> he tells us not to consider him an authority on the subject but just someone explaining what he has understood so far. he further tells us that translation is a mystical process but not a linguistic process as in translation one aims to translate the essence of what a rishi wanted say or convey.
-  
-  
-  
-  -> rishis believed that the power of the word perpetuates them indefinitely into posterity. They 'live' on through the their words
-  
-  
-  
-  **what the Upanishads talk about**
-  
-  
-  
-  -> they spoke about beauty in some senses
-  	-> "idham shreshtam jyothishyam jyothihi, jyothihi sarvam idam vishvam bhasyate"
-  
-  &nbsp;	-> This is the highest light among all lights; by this light, the entire universe is illuminated ( mistral small 3)
-  
-  &nbsp;	-> On Light -> Lo! the supreme light of lights is come, a vaned picturesque awakening consciousness has come to birth (Aurobindo)
-  
-  &nbsp;	-> On Vision -> a 'Brahman' is an extension of the senses in some sense -> no eye can persieve it completely etc
-  
-  
-  
-  -> 4 levels of speech (?)
-  
-  &nbsp;	-> consciousness is some kind of utterance (tf?)
+  * He does **not claim to be an authority**
+	- Only shares what he has understood so far
+	  * Says **translation is mystical**, not merely linguistic
+	- The goal is to **translate the essence** of what a *Rishi* wanted to convey
+	  * Rishis believed:
+	- **The power of their words perpetuates them into posterity**
+	- They "live on" through their spoken words
+	  
+	  ---
+- ## Themes in the Upanishads
+- ### On Beauty and Light
+  * Quote:  
+  > *"idham shreshtam jyothishyam jyothihi, jyothihi sarvam idam vishvam bhasyate"*
+	- Translation:  
+	  > This is the highest light among all lights; by this light, the entire universe is illuminated
+	  
+	  * Aurobindo on Light:  
+	  > "Lo! the supreme light of lights is come, a vaned picturesque awakening consciousness has come to birth"
+- ### On Vision and Brahman
+  * Brahman is:
+	- An **extension of the senses**
+	- Not fully perceptible by any single eye
+	  
+	  ---
+- ## Four Levels of Speech (mentioned vaguely)
+  * Implied idea:
+	- **Consciousness as a form of utterance** (unclear / needs elaboration)
