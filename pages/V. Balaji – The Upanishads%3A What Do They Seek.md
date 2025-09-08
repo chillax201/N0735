@@ -34,7 +34,6 @@
 	    * Serve as a bridge between ritualistic Brahmanas and the spiritual Upanishads
 - ---
 - ## Principal Upanishads (Mukhya Upanishads)
-  collapsed:: true
   
   * Traditionally, **10 Upanishads** are considered principal, often extended to **13** in commentary traditions.
 	- ### Core Upanishads
@@ -53,7 +52,6 @@
 	  12. **Kaushitaki Upanishad** – Rig Veda  
 	  13. **Maitrayaniya Upanishad** – Yajur Veda
 - ### Notable Themes in Specific Upanishads
-  collapsed:: true
 	- **Brihadaranyaka**:
 	    * Explores **"Neti, Neti"** (Not this, not that)
 	    * Discusses death, rebirth, and the eternal Self  
@@ -68,7 +66,6 @@
 	    * Contains metaphors like **two birds on a tree** (soul and Self)
 - ---
 - ## Etymology of “Upanishad”
-  collapsed:: true
 	- * According to V. Balaji (and traditional sources):
 	    * "Upanishad" is interpreted as the **heart’s cry or word**
 	    * Not just language, but a form of **divine inspiration** (enthousiasmos)
@@ -79,7 +76,6 @@
 	    * Symbolizes **sitting down near a teacher** to receive spiritual knowledge
 - ---
 - ## V. Balaji’s Approach
-  collapsed:: true
 	- * Emphasizes:
 	    * He is **not an authority** on the subject
 	    * Merely sharing **personal interpretations and insights**
@@ -91,7 +87,6 @@
 	    * The **vibrations of speech** carry their **consciousness forward through time**
 - ---
 - ## Themes in the Upanishads
-  collapsed:: true
 	- ### Light, Vision, and Beauty
 	  * A key verse:
 	    > *"idam śreṣṭham jyotiṣām jyotiḥ; jyotiḥ sarvam idaṃ viśvam bhāsyate"*  
