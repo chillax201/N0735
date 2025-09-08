@@ -24,6 +24,7 @@
 	  
 	  ---
 - ## Samhita, Brahmanas, and Aranyakas
+  collapsed:: true
   
   * **Samhita**:
 	- Oldest section of the Rig Veda
@@ -36,24 +37,25 @@
 	- Focused on **meditation**
 	  
 	  ---
-	- ## Important Upanishads
-	  
-	  1. **Aitareya** *(Rig Veda)*
-	  2. **Kausitaki** *(Rig Veda)*
-	  3. **Taittiriya** *(Yajur Veda)*
-	  4. **Brihadaranyaka** *(Yajur Veda)*
-	  5. **Chandogya** *(Sama Veda)*
-	  6. **Kena** *(Sama Veda)*
-	  7. **Katha** *(story of Nachiketas)*
-	  8. **Svetasvatara** *(?)*
-	  9. *(?)*
-	  10. **Mundaka**
-	  11. **Maitri (Maitrayani)**
-	  12. **Mandukya**
-	  13. **Isha** *(metrical)*
-	  
-	  ---
+- ## Important Upanishads
+  
+  1. **Aitareya** *(Rig Veda)*
+  2. **Kausitaki** *(Rig Veda)*
+  3. **Taittiriya** *(Yajur Veda)*
+  4. **Brihadaranyaka** *(Yajur Veda)*
+  5. **Chandogya** *(Sama Veda)*
+  6. **Kena** *(Sama Veda)*
+  7. **Katha** *(story of Nachiketas)*
+  8. **Svetasvatara** *(?)*
+  9. *(?)*
+  10. **Mundaka**
+  11. **Maitri (Maitrayani)**
+  12. **Mandukya**
+  13. **Isha** *(metrical)*
+  
+  ---
 - ## Etymology of "Upanishad" (as per V. Balaji)
+  collapsed:: true
   
   * Comes from the **Sakalya Samhita**
   * Meaning:
@@ -62,6 +64,7 @@
 	  
 	  ---
 - ## V. Balaji’s Approach
+  collapsed:: true
   
   * He does **not claim to be an authority**
 	- Only shares what he has understood so far
@@ -74,6 +77,7 @@
 	  ---
 - ## Themes in the Upanishads
 - ### On Beauty and Light
+  collapsed:: true
   * Quote:  
   > *"idham shreshtam jyothishyam jyothihi, jyothihi sarvam idam vishvam bhasyate"*
 	- Translation:  
@@ -82,11 +86,13 @@
 	  * Aurobindo on Light:  
 	  > "Lo! the supreme light of lights is come, a vaned picturesque awakening consciousness has come to birth"
 - ### On Vision and Brahman
+  collapsed:: true
   * Brahman is:
 	- An **extension of the senses**
 	- Not fully perceptible by any single eye
 	  
 	  ---
 - ## Four Levels of Speech (mentioned vaguely)
+  collapsed:: true
   * Implied idea:
 	- **Consciousness as a form of utterance** (unclear / needs elaboration)
