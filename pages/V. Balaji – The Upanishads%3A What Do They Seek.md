@@ -1,6 +1,5 @@
-# V. Balaji – The Upanishads: What Do They Seek?
-- ## Introduction
-  * V. Balaji is a mathematician working in:
+## Introduction
+* V. Balaji is a mathematician working in:
 	- Topological geometry
 	- Algebraic geometry
 	  * His real ambition aside from academia:
@@ -37,23 +36,23 @@
 	- Focused on **meditation**
 	  
 	  ---
-- ## Important Upanishads
-  
-  1. **Aitareya** *(Rig Veda)*
-  2. **Kausitaki** *(Rig Veda)*
-  3. **Taittiriya** *(Yajur Veda)*
-  4. **Brihadaranyaka** *(Yajur Veda)*
-  5. **Chandogya** *(Sama Veda)*
-  6. **Kena** *(Sama Veda)*
-  7. **Katha** *(story of Nachiketas)*
-  8. **Svetasvatara** *(?)*
-  9. *(?)*
-  10. **Mundaka**
-  11. **Maitri (Maitrayani)**
-  12. **Mandukya**
-  13. **Isha** *(metrical)*
-  
-  ---
+	- ## Important Upanishads
+	  
+	  1. **Aitareya** *(Rig Veda)*
+	  2. **Kausitaki** *(Rig Veda)*
+	  3. **Taittiriya** *(Yajur Veda)*
+	  4. **Brihadaranyaka** *(Yajur Veda)*
+	  5. **Chandogya** *(Sama Veda)*
+	  6. **Kena** *(Sama Veda)*
+	  7. **Katha** *(story of Nachiketas)*
+	  8. **Svetasvatara** *(?)*
+	  9. *(?)*
+	  10. **Mundaka**
+	  11. **Maitri (Maitrayani)**
+	  12. **Mandukya**
+	  13. **Isha** *(metrical)*
+	  
+	  ---
 - ## Etymology of "Upanishad" (as per V. Balaji)
   
   * Comes from the **Sakalya Samhita**
