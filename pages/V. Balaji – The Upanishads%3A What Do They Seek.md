@@ -1,13 +1,13 @@
 # V. Balaji – The Upanishads: What Do They Seek?
 - ## Introduction
-  * **V. Balaji** is a mathematician specializing in:
-    * Topological Geometry  
-    * Algebraic Geometry  
-  * His deeper ambition in life:
-    * To seek the **spiritual and philosophical truths** of the **Vedas** and **Upanishads**
-    * Interested in understanding **consciousness, self, and reality** through ancient wisdom
-  
-  ---
+	- **V. Balaji** is a mathematician specializing in:
+	    * Topological Geometry  
+	    * Algebraic Geometry  
+	  * His deeper ambition in life:
+	    * To seek the **spiritual and philosophical truths** of the **Vedas** and **Upanishads**
+	    * Interested in understanding **consciousness, self, and reality** through ancient wisdom
+	  
+	  ---
 - ## Structure of the Vedas
 - ### Rig Veda
   * Composed by: **Vyasa**
