@@ -123,4 +123,3 @@
 	  * Connected with **Turiya**, the fourth state of awareness  
 	  * This is the level from which **mantras originate**
 -
-- $$\phi = \delta$$
