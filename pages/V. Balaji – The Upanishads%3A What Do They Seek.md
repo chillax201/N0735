@@ -6,8 +6,6 @@
 	  * His deeper ambition in life:
 	    * To seek the **spiritual and philosophical truths** of the **Vedas** and **Upanishads**
 	    * Interested in understanding **consciousness, self, and reality** through ancient wisdom
-	  
-	  ---
 - ## Structure of the Vedas
   collapsed:: true
 	- ### Rig Veda
@@ -58,20 +56,19 @@
 	  12. **Kaushitaki Upanishad** – Rig Veda  
 	  13. **Maitrayaniya Upanishad** – Yajur Veda
 - ### Notable Themes in Specific Upanishads
-- **Brihadaranyaka**:
-    * Explores **"Neti, Neti"** (Not this, not that)
-    * Discusses death, rebirth, and the eternal Self  
-  * **Katha**:
-    * Dialogue between **Nachiketas** and **Yama**
-    * Explores the distinction between **shreyas** (the good) and **preyas** (the pleasant)  
-  * **Mandukya**:
-    * Analyzes the syllable **Om (AUM)**
-    * Introduces **four states of consciousness**: waking, dreaming, deep sleep, and turiya (pure awareness)  
-  * **Mundaka**:
-    * Explains **Para Vidya** (higher knowledge) vs. **Apara Vidya** (lower knowledge)  
-    * Contains metaphors like **two birds on a tree** (soul and Self)
-  
-  ---
+	- **Brihadaranyaka**:
+	    * Explores **"Neti, Neti"** (Not this, not that)
+	    * Discusses death, rebirth, and the eternal Self  
+	  * **Katha**:
+	    * Dialogue between **Nachiketas** and **Yama**
+	    * Explores the distinction between **shreyas** (the good) and **preyas** (the pleasant)  
+	  * **Mandukya**:
+	    * Analyzes the syllable **Om (AUM)**
+	    * Introduces **four states of consciousness**: waking, dreaming, deep sleep, and turiya (pure awareness)  
+	  * **Mundaka**:
+	    * Explains **Para Vidya** (higher knowledge) vs. **Apara Vidya** (lower knowledge)  
+	    * Contains metaphors like **two birds on a tree** (soul and Self)
+- ---
 - ## Etymology of “Upanishad”
   * According to V. Balaji (and traditional sources):
     * "Upanishad" is interpreted as the **heart’s cry or word**
