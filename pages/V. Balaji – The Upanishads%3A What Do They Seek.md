@@ -9,54 +9,56 @@
 	  
 	  ---
 - ## Structure of the Vedas
-- ### Rig Veda
-  * Composed by: **Vyasa**
-  * Contains:
-    * **1,057 hymns**  
-    * Divided into **10 Mandalas**  
-  * Written in:
-    * **Metrical form** — reflecting precise measurements and rhythm
-  * Etymology:
-    * "Rik" = a **ray or particle of light**
-    * The Rig Veda contains about **10,200 "riks"**, signifying light and structured energy
-  * Philosophical significance:
-    * The Rishis wrote these hymns in a state of **cosmic wonder**
-    * Their poetry reflects deep **spiritual inquiry into the nature of the self and universe**
-- ### Yajur Veda
-  * Regarded as a **practical guide** for rituals
-  * Described by Balaji as being like **“homework”** given to Vyasa’s disciples
-  * Focuses on:
-    * Ritual formulas and precise ceremonial instructions
-- ### Samhita, Brahmanas, and Aranyakas
-  * **Samhita**:
-    * The oldest layer of the Vedas; written in **metrical verses**
-  * **Brahmanas**:
-    * Texts that explain **rituals and their significance**
-  * **Aranyakas**:
-    * Contain **philosophical interpretations** of rituals
-    * Serve as a bridge between ritualistic Brahmanas and the spiritual Upanishads
-  
-  ---
+  collapsed:: true
+	- ### Rig Veda
+	  * Composed by: **Vyasa**
+	  * Contains:
+	    * **1,057 hymns**  
+	    * Divided into **10 Mandalas**  
+	  * Written in:
+	    * **Metrical form** — reflecting precise measurements and rhythm
+	  * Etymology:
+	    * "Rik" = a **ray or particle of light**
+	    * The Rig Veda contains about **10,200 "riks"**, signifying light and structured energy
+	  * Philosophical significance:
+	    * The Rishis wrote these hymns in a state of **cosmic wonder**
+	    * Their poetry reflects deep **spiritual inquiry into the nature of the self and universe**
+	- ### Yajur Veda
+	  * Regarded as a **practical guide** for rituals
+	  * Described by Balaji as being like **“homework”** given to Vyasa’s disciples
+	  * Focuses on:
+	    * Ritual formulas and precise ceremonial instructions
+	- ### Samhita, Brahmanas, and Aranyakas
+	  * **Samhita**:
+	    * The oldest layer of the Vedas; written in **metrical verses**
+	  * **Brahmanas**:
+	    * Texts that explain **rituals and their significance**
+	  * **Aranyakas**:
+	    * Contain **philosophical interpretations** of rituals
+	    * Serve as a bridge between ritualistic Brahmanas and the spiritual Upanishads
+	  
+	  ---
 - ## Principal Upanishads (Mukhya Upanishads)
+  collapsed:: true
   
   * Traditionally, **10 Upanishads** are considered principal, often extended to **13** in commentary traditions.
-- ### Core Upanishads
-  1. **Isha Upanishad** – Yajur Veda  
-  2. **Kena Upanishad** – Sama Veda  
-  3. **Katha Upanishad** – Yajur Veda  
-  4. **Prashna Upanishad** – Atharva Veda  
-  5. **Mundaka Upanishad** – Atharva Veda  
-  6. **Mandukya Upanishad** – Atharva Veda  
-  7. **Taittiriya Upanishad** – Yajur Veda  
-  8. **Aitareya Upanishad** – Rig Veda  
-  9. **Chandogya Upanishad** – Sama Veda  
-  10. **Brihadaranyaka Upanishad** – Yajur Veda
-- ### Additional Key Upanishads
-  11. **Shvetashvatara Upanishad** – Yajur Veda  
-  12. **Kaushitaki Upanishad** – Rig Veda  
-  13. **Maitrayaniya Upanishad** – Yajur Veda
+	- ### Core Upanishads
+	  1. **Isha Upanishad** – Yajur Veda  
+	  2. **Kena Upanishad** – Sama Veda  
+	  3. **Katha Upanishad** – Yajur Veda  
+	  4. **Prashna Upanishad** – Atharva Veda  
+	  5. **Mundaka Upanishad** – Atharva Veda  
+	  6. **Mandukya Upanishad** – Atharva Veda  
+	  7. **Taittiriya Upanishad** – Yajur Veda  
+	  8. **Aitareya Upanishad** – Rig Veda  
+	  9. **Chandogya Upanishad** – Sama Veda  
+	  10. **Brihadaranyaka Upanishad** – Yajur Veda
+	- ### Additional Key Upanishads
+	  11. **Shvetashvatara Upanishad** – Yajur Veda  
+	  12. **Kaushitaki Upanishad** – Rig Veda  
+	  13. **Maitrayaniya Upanishad** – Yajur Veda
 - ### Notable Themes in Specific Upanishads
-  * **Brihadaranyaka**:
+- **Brihadaranyaka**:
     * Explores **"Neti, Neti"** (Not this, not that)
     * Discusses death, rebirth, and the eternal Self  
   * **Katha**:
