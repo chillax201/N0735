@@ -70,61 +70,60 @@
 	    * Contains metaphors like **two birds on a tree** (soul and Self)
 - ---
 - ## Etymology of “Upanishad”
-  * According to V. Balaji (and traditional sources):
-    * "Upanishad" is interpreted as the **heart’s cry or word**
-    * Not just language, but a form of **divine inspiration** (enthousiasmos)
-    * Derived from the root words:
-        * *upa* (near)
-        * *ni* (down)
-        * *sad* (to sit)  
-    * Symbolizes **sitting down near a teacher** to receive spiritual knowledge
-  
-  ---
+  collapsed:: true
+	- * According to V. Balaji (and traditional sources):
+	    * "Upanishad" is interpreted as the **heart’s cry or word**
+	    * Not just language, but a form of **divine inspiration** (enthousiasmos)
+	    * Derived from the root words:
+	        * *upa* (near)
+	        * *ni* (down)
+	        * *sad* (to sit)  
+	    * Symbolizes **sitting down near a teacher** to receive spiritual knowledge
+- ---
 - ## V. Balaji’s Approach
-  * Emphasizes:
-    * He is **not an authority** on the subject
-    * Merely sharing **personal interpretations and insights**
-  * Believes:
-    * Translation is a **mystical act**, not just linguistic
-    * The **essence of what the Rishis intended** must be felt, not just translated
-  * On the power of words:
-    * Rishis believed that their **words are immortal**
-    * The **vibrations of speech** carry their **consciousness forward through time**
-  
-  ---
+	- * Emphasizes:
+	    * He is **not an authority** on the subject
+	    * Merely sharing **personal interpretations and insights**
+	  * Believes:
+	    * Translation is a **mystical act**, not just linguistic
+	    * The **essence of what the Rishis intended** must be felt, not just translated
+	  * On the power of words:
+	    * Rishis believed that their **words are immortal**
+	    * The **vibrations of speech** carry their **consciousness forward through time**
+- ---
 - ## Themes in the Upanishads
-- ### Light, Vision, and Beauty
-  * A key verse:
-    > *"idam śreṣṭham jyotiṣām jyotiḥ; jyotiḥ sarvam idaṃ viśvam bhāsyate"*  
-    > “This is the supreme light among lights; by this light, the entire universe shines.”
-  * Interpretation:
-    * The light here refers to **Brahman**, the eternal Self that illuminates all
-    * **Perception, awareness, and consciousness** are recurring themes
-    * The **true seer** does not just see with eyes, but through **conscious presence**
-  
-  ---
-- ## The Four Levels of Speech (Vāc)
-  
-  * Speech is not merely physical utterance but a **multi-layered manifestation of consciousness**.
-  * As per Vedic and Tantric traditions, the **four levels** are:
-- ### 1. **Vaikhari**
-  * The **spoken** form of speech  
-  * Grossest level — what is **audibly heard**  
-  * Related to **Kriyā Shakti** (power of action)  
-  * Linked with the **waking state (jāgrat)**
-- ### 2. **Madhyama**
-  * The **interiorized** mental speech  
-  * What we “say” in our mind before uttering  
-  * Related to **Jñāna Shakti** (power of knowledge)  
-  * Connected with the **dream state (svapna)**
-- ### 3. **Pashyanti**
-  * The **visionary** stage  
-  * Thought exists as **feeling or intention**, not in words  
-  * Related to **Icchā Shakti** (power of will or desire)  
-  * Associated with **deep sleep (sushupti)**
-- ### 4. **Para**
-  * The **purest**, most subtle level  
-  * Beyond articulation — **pure intent or vibration**  
-  * Resides in the **heart or bindu (source point)**  
-  * Connected with **Turiya**, the fourth state of awareness  
-  * This is the level from which **mantras originate**
+	- ### Light, Vision, and Beauty
+	  * A key verse:
+	    > *"idam śreṣṭham jyotiṣām jyotiḥ; jyotiḥ sarvam idaṃ viśvam bhāsyate"*  
+	    > “This is the supreme light among lights; by this light, the entire universe shines.”
+	  * Interpretation:
+	    * The light here refers to **Brahman**, the eternal Self that illuminates all
+	    * **Perception, awareness, and consciousness** are recurring themes
+	    * The **true seer** does not just see with eyes, but through **conscious presence**
+	  
+	  ---
+	- ## The Four Levels of Speech (Vāc)
+	  
+	  * Speech is not merely physical utterance but a **multi-layered manifestation of consciousness**.
+	  * As per Vedic and Tantric traditions, the **four levels** are:
+	- ### 1. **Vaikhari**
+	  * The **spoken** form of speech  
+	  * Grossest level — what is **audibly heard**  
+	  * Related to **Kriyā Shakti** (power of action)  
+	  * Linked with the **waking state (jāgrat)**
+	- ### 2. **Madhyama**
+	  * The **interiorized** mental speech  
+	  * What we “say” in our mind before uttering  
+	  * Related to **Jñāna Shakti** (power of knowledge)  
+	  * Connected with the **dream state (svapna)**
+	- ### 3. **Pashyanti**
+	  * The **visionary** stage  
+	  * Thought exists as **feeling or intention**, not in words  
+	  * Related to **Icchā Shakti** (power of will or desire)  
+	  * Associated with **deep sleep (sushupti)**
+	- ### 4. **Para**
+	  * The **purest**, most subtle level  
+	  * Beyond articulation — **pure intent or vibration**  
+	  * Resides in the **heart or bindu (source point)**  
+	  * Connected with **Turiya**, the fourth state of awareness  
+	  * This is the level from which **mantras originate**
