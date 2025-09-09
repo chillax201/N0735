@@ -18,4 +18,4 @@ collapsed:: true
 	  nullity(T) + rank(T) = dim(domain)
 	  $$
 -
--
+- If underlying scalars are not from $RR$  but from some other filed
