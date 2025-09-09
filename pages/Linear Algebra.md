@@ -7,8 +7,7 @@
 	  \text{fiber over w''} \\
 	  \text{(Fiber over }w \notin \text{range of T is empty )}
 	  $$
-	- ### picture :
-		- ![image.png](../assets/image_1757415395232_0.png){:height 648, :width 356}
+	- ### picture :![image.png](../assets/image_1757415395232_0.png){:height 648, :width 356}
 -
 -
 -
