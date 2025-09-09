@@ -30,7 +30,8 @@ collapsed:: true
 	  $$[T(v)]_C = A [V]_B$$
 	- <ins> Notation </ins>
 		- $$
-		  M_{B,C}(T) = this A
-		  [V]_B = coordination veco
+		  M_{B,C}(T) = \text{this A}
+		  [V]_B = \text{coordination vector of V wrt B}
+		  [V]_{B'} = P^{-1}
 		  $$
 	-
