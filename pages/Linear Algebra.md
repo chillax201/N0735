@@ -10,4 +10,6 @@ collapsed:: true
 	  $$
 -
 - ## Theorem 1.1 :
-	-
+	- $$
+	  dim(K) + dim(T(V)) = dim(V)
+	- $$
