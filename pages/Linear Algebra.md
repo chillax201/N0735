@@ -4,5 +4,6 @@
   \text{fiber over} 0'' \\
   v + K \mapsto f(v) = w \\
   \text{fiber over w''} \\
-  \text{(Fiber over }w \notin \text{range of T is __empty__ )}
+  \text{(Fiber over }w \notin \text{range of T is empty )}
   $$
+-
