@@ -22,5 +22,6 @@ collapsed:: true
 	- If $|F|$ is finite, say $P$ and if $dimV = n$ then :
 	    $$|V|= P^n \quad |K| = P^k \quad |f(v)| = p^r$$
 	- then above theorem just becomes
-	  $$ p$$
+	  $$ P^n = P^r\dotP^k$$
+	  valid by uniformity of fibers
 -
