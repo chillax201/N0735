@@ -7,7 +7,7 @@
 	  \text{fiber over w''} \\
 	  \text{(Fiber over }w \notin \text{range of T is empty )}
 	  $$
-	- ![image.png](../assets/image_1757415086213_0.png)
+	- picture : ![image.png](../assets/image_1757415086213_0.png){:height 292, :width 356}
 	-
 -
 - ## Theorem 1.1 (rank nullity):
