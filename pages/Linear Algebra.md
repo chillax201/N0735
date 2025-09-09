@@ -1,5 +1,4 @@
 ## Linear map intro :
-collapsed:: true
 	- $$
 	  V \xrightarrow{linear T} W \quad ker(T) = K \\
 	  K \mapsto 0 \\
@@ -18,7 +17,6 @@ collapsed:: true
 	  nullity(T) + rank(T) = dim(domain)
 	  $$
 	- If underlying scalars are not from $\R$ but from some other filed $F$ even then __everything__ we have done stays valid (To be revisited)
-	  collapsed:: true
 		- If $|F|$ is finite, say $P$ and if $dimV = n$ then :
 		    $$|V|= P^n \quad |K| = P^k \quad |f(v)| = p^r$$
 		- then above theorem just becomes
@@ -26,8 +24,8 @@ collapsed:: true
 		  valid by uniformity of fibers
 - ## Change of basis :
 	- ### Change of basis :
-	  $$ M_{B',C'}(T) = Q^{-1}M_{B,C}$$
-	-
+	  $$ M_{B',C'}(T) = Q^{-1}M_{B,C}(T)P$$
+	- __fill in proof for above__
 	- Diagram: 
 	  ![image.png](../assets/image_1757416091542_0.png){:height 287, :width 277}
 	- Meaning of matrix of T wrt B,C is $A''$:
