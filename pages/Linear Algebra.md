@@ -1,4 +1,5 @@
 ## Linear map intro :
+collapsed:: true
 	- $$
 	  V \xrightarrow{linear T} W \quad ker(T) = K \\
 	  K \mapsto 0 \\
@@ -7,7 +8,8 @@
 	  \text{fiber over w''} \\
 	  \text{(Fiber over }w \notin \text{range of T is empty )}
 	  $$
-	- picture : ![image.png](../assets/image_1757415086213_0.png){:height 292, :width 356}
+	- ### picture : 
+	                  ![image.png](../assets/image_1757415086213_0.png){:height 292, :width 356}
 	-
 -
 - ## Theorem 1.1 (rank nullity):
