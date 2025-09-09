@@ -9,7 +9,8 @@
 	  $$
 	- ### picture :
 		- ![image.png](../assets/image_1757415395232_0.png){:height 648, :width 356}
-	-
+-
+-
 -
 - ## Theorem 1.1 (rank nullity) :
 	- $$
@@ -22,6 +23,8 @@
 		- then above theorem just becomes
 		  $$ P^n = P^r \cdot P^k$$
 		  valid by uniformity of fibers
+-
+-
 - ## Change of basis :
 	- ### Change of basis :
 	  $$ M_{B',C'}(T) = Q^{-1}M_{B,C}(T)P$$
@@ -36,4 +39,6 @@
 		  [V]_B = \text{coordination vector of V wrt B} \\
 		  [V]_{B'} = P^{-1}[V]_B \\
 		  $$
-	-
+-
+-
+-
