@@ -1,3 +1,4 @@
 - $$
-  V \xrightarrowl
+  V \xrightarrow{linear T} W
+  
   $$
