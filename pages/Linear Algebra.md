@@ -27,4 +27,5 @@ collapsed:: true
 - ## Change of basis :
 	- ![image.png](../assets/image_1757416091542_0.png){:height 287, :width 277}
 	- Meaning of matrix of T wrt B,C is $A''$
-	  $$[T(v]$$
+	  $$[T(v)]_C = A [V]_B$$
+	-
