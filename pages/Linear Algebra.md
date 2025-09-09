@@ -1,4 +1,5 @@
 - $$
-  V \xrightarrow{linear T} W
+  V \xrightarrow{linear T} W \text{ker(T) = K}
   
   $$
+	- xrightarrow
