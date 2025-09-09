@@ -7,7 +7,8 @@
 	  \text{fiber over w''} \\
 	  \text{(Fiber over }w \notin \text{range of T is empty )}
 	  $$
-	- ### picture :![image.png](../assets/image_1757415395232_0.png){:height 648, :width 356}
+	- ### picture :
+		- ![image.png](../assets/image_1757415395232_0.png){:height 648, :width 356}
 -
 -
 -
@@ -28,8 +29,8 @@
 	- ### Change of basis :
 	  $$ M_{B',C'}(T) = Q^{-1}M_{B,C}(T)P$$
 	- __fill in proof for above__
-	- Diagram: 
-	  ![image.png](../assets/image_1757416091542_0.png){:height 287, :width 277}
+	- Diagram:
+		- ![image.png](../assets/image_1757416091542_0.png){:height 287, :width 277}
 	- Meaning of matrix of T wrt B,C is $A''$:
 	  $$[T(v)]_C = A [V]_B$$
 	- <ins> Notation </ins>
