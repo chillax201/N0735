@@ -25,5 +25,5 @@ collapsed:: true
 		  $$ P^n = P^r \cdot P^k$$
 		  valid by uniformity of fibers
 - ## Change of basis :
-	- [[draws/2025-09-09-16-35-55.excalidraw]]
+	- ![image.png](../assets/image_1757416091542_0.png){:height 287, :width 277}
 	-
