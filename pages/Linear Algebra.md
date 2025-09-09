@@ -3,6 +3,6 @@
   K \mapsto 0
   fiber over 0''
   v + K \mapsto f(v) = w
-  fiber over w''
-  (Fiber 
+  \text{fiber over w''}
+  (Fiber over w \notin range of T is __empty__ )
   $$
