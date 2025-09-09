@@ -1,4 +1,4 @@
 - $$
-  V \xrightarrow{linear T} W \ \text{ker(T) = K}
-  
+  V \xrightarrow{linear T} W \quad ker(T) = K
+  K 
   $$
