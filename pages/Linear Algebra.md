@@ -29,6 +29,7 @@
 	- ### Change of basis :
 	  $$ M_{B',C'}(T) = Q^{-1}M_{B,C}(T)P$$
 	- __fill in proof for above__
+	-
 	- Diagram:
 		- ![image.png](../assets/image_1757416091542_0.png){:height 287, :width 277}
 	- Meaning of matrix of T wrt B,C is $A''$:
