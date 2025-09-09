@@ -1,2 +1,3 @@
 ## Picture:
-	- {{renderer excalidraw, excalidraw-2025-09-09-15-56-56}}
+	- [[draws/2025-09-09-15-57-46.excalidraw]]
+	-
