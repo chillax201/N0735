@@ -20,5 +20,7 @@ collapsed:: true
 -
 - If underlying scalars are not from $\R$ but from some other filed $F$ even then __everything__ we have done stays valid (To be revisited)
 	- If $|F|$ is finite, say $P$ and if $dimV = n$ then :
-	    $$|V|= P^n \quad |K| = P^k \quad |$$
+	    $$|V|= P^n \quad |K| = P^k \quad |f(v)| = p^r$$
+	- then above theorem just becomes
+	  $$ p$$
 -
