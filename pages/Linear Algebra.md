@@ -17,11 +17,11 @@ collapsed:: true
 	  dim(K) + dim(T(V)) = dim(V) \\
 	  nullity(T) + rank(T) = dim(domain)
 	  $$
--
 	- If underlying scalars are not from $\R$ but from some other filed $F$ even then __everything__ we have done stays valid (To be revisited)
+	  collapsed:: true
 		- If $|F|$ is finite, say $P$ and if $dimV = n$ then :
 		    $$|V|= P^n \quad |K| = P^k \quad |f(v)| = p^r$$
 		- then above theorem just becomes
 		  $$ P^n = P^r \cdot P^k$$
 		  valid by uniformity of fibers
--
+- ## Change of basis
