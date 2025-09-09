@@ -26,7 +26,7 @@ collapsed:: true
 		  valid by uniformity of fibers
 - ## Change of basis :
 	- ### Change of basis :
-		-
+	  $$ M_{B',C'}(T) = Q^{-1}M_{B,C}$$
 	-
 	- Diagram: 
 	  ![image.png](../assets/image_1757416091542_0.png){:height 287, :width 277}
