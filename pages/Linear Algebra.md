@@ -12,6 +12,6 @@ collapsed:: true
 - ## Theorem 1.1 (rank nullity):
 	- $$
 	  dim(K) + dim(T(V)) = dim(V) \\
-	  rank(T)
+	  nullity(T) + rank(T) = dim(
 	  $$
 	-
