@@ -9,7 +9,9 @@ collapsed:: true
 	  \text{(Fiber over }w \notin \text{range of T is empty )}
 	  $$
 -
-- ## Theorem 1.1 :
+- ## Theorem 1.1 (rank nullity):
 	- $$
-	  dim(K) + dim(T(V)) = dim(V)
-	- $$
+	  dim(K) + dim(T(V)) = dim(V) \\
+	  rank(T)
+	  $$
+	-
