@@ -18,4 +18,5 @@ collapsed:: true
 	  nullity(T) + rank(T) = dim(domain)
 	  $$
 -
-- If underlying scalars are not from $RR$  but from some other filed
+- If underlying scalars are not from $\RR$  but from some other filed $F$ even then __everything__ we have done stays valid (To be revisited)
+-
