@@ -8,6 +8,7 @@
 	  \text{(Fiber over }w \notin \text{range of T is empty )}
 	  $$
 	- [[draws/2025-09-09-16-18-22.excalidraw]]
+	- ![image.png](../assets/image_1757415086213_0.png)
 	-
 -
 - ## Theorem 1.1 (rank nullity):
