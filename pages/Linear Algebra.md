@@ -1,5 +1,4 @@
 ## Linear map intro :
-collapsed:: true
 	- $$
 	  V \xrightarrow{linear T} W \quad ker(T) = K \\
 	  K \mapsto 0 \\
@@ -8,10 +7,11 @@ collapsed:: true
 	  \text{fiber over w''} \\
 	  \text{(Fiber over }w \notin \text{range of T is empty )}
 	  $$
+	- [[draws/2025-09-09-16-18-22.excalidraw]]
+	-
 -
 - ## Theorem 1.1 (rank nullity):
 	- $$
 	  dim(K) + dim(T(V)) = dim(V) \\
-	  nullity(T) + rank(T) = dim(
+	  nullity(T) + rank(T) = dim(domain)
 	  $$
-	-
