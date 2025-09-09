@@ -12,7 +12,7 @@ collapsed:: true
 		- ![image.png](../assets/image_1757415395232_0.png)
 	-
 -
-- ## Theorem 1.1 (rank nullity):
+- ## Theorem 1.1 (rank nullity) :
 	- $$
 	  dim(K) + dim(T(V)) = dim(V) \\
 	  nullity(T) + rank(T) = dim(domain)
@@ -24,4 +24,6 @@ collapsed:: true
 		- then above theorem just becomes
 		  $$ P^n = P^r \cdot P^k$$
 		  valid by uniformity of fibers
-- ## Change of basis
+- ## Change of basis :
+	- [[draws/2025-09-09-16-35-55.excalidraw]]
+	-
