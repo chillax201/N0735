@@ -1,4 +1,4 @@
-## Linear map intro :
+## Linear map intro
 collapsed:: true
 	- $$
 	  V \xrightarrow{linear T} W \quad ker(T) = K \\
@@ -12,7 +12,7 @@ collapsed:: true
 		- ![image.png](../assets/image_1757415395232_0.png){:height 648, :width 356}
 -
 -
-- ## Theorem 1.1 (rank nullity) :
+- ## Theorem 1.1 (rank nullity)
   collapsed:: true
 	- $$
 	  dim(K) + dim(T(V)) = dim(V) \\
@@ -26,7 +26,7 @@ collapsed:: true
 		  valid by uniformity of fibers
 -
 -
-- ## Change of basis :
+- ## Change of basis
   collapsed:: true
 	- ### Change of basis :
 	  $$ M_{B',C'}(T) = Q^{-1}M_{B,C}(T)P$$
@@ -44,4 +44,5 @@ collapsed:: true
 		  $$
 -
 -
-- D
+- ## Determinant
+	- sum of $n!$ terms
