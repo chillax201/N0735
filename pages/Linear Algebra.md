@@ -52,13 +52,5 @@ collapsed:: true
 		  logseq.order-list-type:: number
 	- $$det(A)  = \sum sgn(\sigma)a_{1\sigma(1)}a_{2\sigma(2)} \dots a_{n\sigma(n)}$$
 	  where $\sigma$ is any permutation of column indices 1,2,...,n
-	- we know the following about determinants as well:
-		- multilinear (as a function of n row vectors)
-		  logseq.order-list-type:: number
-		- alternating
-		  logseq.order-list-type:: number
-		- such that $det(Id) = 1$
-		  logseq.order-list-type:: number
-		- effect of
-		  logseq.order-list-type:: number
+	-
 	-
