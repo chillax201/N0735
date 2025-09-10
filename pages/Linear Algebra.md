@@ -51,4 +51,5 @@ collapsed:: true
 		- each row contributes exactly one factor
 		  logseq.order-list-type:: number
 	- $$det  = \sum sgn(\sigma)a_{1\sigma(1)}a_{2\sigma(2)} \dots a_{n\sigma(n)}$$
+	  where $\sigma$ is any permutation of column indices 1,2,/
 	-
