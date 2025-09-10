@@ -59,4 +59,6 @@ collapsed:: true
 		  logseq.order-list-type:: number
 		- such that $det(Id) = 1$
 		  logseq.order-list-type:: number
+		- effect of
+		  logseq.order-list-type:: number
 	-
