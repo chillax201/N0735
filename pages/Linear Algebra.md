@@ -13,6 +13,7 @@ collapsed:: true
 -
 -
 - ## Theorem 1.1 (rank nullity) :
+  collapsed:: true
 	- $$
 	  dim(K) + dim(T(V)) = dim(V) \\
 	  nullity(T) + rank(T) = dim(domain)
