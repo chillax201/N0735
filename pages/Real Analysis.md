@@ -11,4 +11,5 @@
 			  then 
 			  $$P(x_i) \rightarrow P(x_0)$$
 		- i have no bullfuck idea what happened _lookup_ ___continuity of power series theorem___
-		-
+		- ### Thm (Rieman) :
+			-
