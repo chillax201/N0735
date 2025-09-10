@@ -45,4 +45,5 @@ collapsed:: true
 -
 -
 - ## Determinant
-	- sum of $n!$ terms
+	- sum of $n!$ terms, each of which each is a product of n entries of $A$ chosen such that :
+		- each
