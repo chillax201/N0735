@@ -59,4 +59,5 @@ collapsed:: true
 	- where $V_i$ and $W$ are V.spaces
 	- f is called multilinear is fixing all arguments except $i^{th}$ argument gives a linear function in $i^{th}$ argument. this holds for each i
 	- multilinear + alternating :
-		-
+		- if adjacent arguements of f are swapped then f becomes minus of what it was 
+		  e.g : $f(V_1,V_2\dots V_k) = -
