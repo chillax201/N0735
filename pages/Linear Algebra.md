@@ -1,4 +1,5 @@
 ## Linear map intro :
+collapsed:: true
 	- $$
 	  V \xrightarrow{linear T} W \quad ker(T) = K \\
 	  K \mapsto 0 \\
@@ -11,8 +12,8 @@
 		- ![image.png](../assets/image_1757415395232_0.png){:height 648, :width 356}
 -
 -
--
 - ## Theorem 1.1 (rank nullity) :
+  collapsed:: true
 	- $$
 	  dim(K) + dim(T(V)) = dim(V) \\
 	  nullity(T) + rank(T) = dim(domain)
@@ -26,6 +27,7 @@
 -
 -
 - ## Change of basis :
+  collapsed:: true
 	- ### Change of basis :
 	  $$ M_{B',C'}(T) = Q^{-1}M_{B,C}(T)P$$
 	- __fill in proof for above__
