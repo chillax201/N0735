@@ -3,4 +3,5 @@
 		- $P(x)$ is called a power series, that is a an infinite degree polynomial
 		- radius of convergence is defined as :
 		  $$R = \frac{1}{\lim \sqrt[n]{|a_n|}}$$
-		- there are some conditions with the help of which we can deducd
+		- there are some conditions with the help of which we can deduce whether the power series converges or no depending on radius of convergence
+		-
