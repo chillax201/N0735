@@ -7,4 +7,6 @@
 		- ### Thm:
 			- Let $R$ be the radius of convergence Let $P(x)$ be as defined above on $(-R,R)$
 			- if 
-			  $$x_i \arrow x_0 \text{all pts in (-R,R)}$$
+			  $$x_i \rightarrow x_0 \quad \text{all pts in (-R,R)}$$
+			  then 
+			  $$P(x_i) \rightarrow P(x_0)$$
