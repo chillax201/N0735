@@ -14,5 +14,6 @@
 		- ### Thm (Rieman) :
 			- if $a_1 + a_2 + a_3 \dots$ is a series that is conditionally convergent then :
 			- you give me  any real number $\alpha$ (or even $=\infty$)
-			- Then i can show a permutation $\pi:{1,2, \dots} \rightarrow {1,2, \dots}$
+			- Then i can show a permutation $\pi:\left\{1,2, \dots \right\} \rightarrow \left\{1,2, \dots \right\}$
+			- such that $a_{\pi}
 			-
