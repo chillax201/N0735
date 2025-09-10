@@ -54,4 +54,5 @@ collapsed:: true
 	  where $\sigma$ is any permutation of column indices 1,2,...,n
 -
 - ## Multilinear Function :
-	- Domain $v_1
+	- Domain $V_1 \cross V_2 \into \dots V_k$
+	-
