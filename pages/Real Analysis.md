@@ -13,5 +13,5 @@
 		- i have no bullfuck idea what happened _lookup_ ___continuity of power series theorem___
 		- ### Thm (Rieman) :
 			- if $a_1 + a_2 + a_3 \dots$ is a series that is conditionally convergent then :
-			- you give me  any real number $\alpha$ (or even $=\infinity$)
-			-
+			- you give me  any real number $\alpha$ (or even $=\infty$)
+			- Then i can show a permutation $\pi:{}$
