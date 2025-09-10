@@ -62,4 +62,5 @@ collapsed:: true
 		- if adjacent arguements of f are swapped then f becomes minus of what it was 
 		  e.g : $f(V_1,V_2\dots V_k) = -f(V_2,V_1\dots V_k)$
 		- consider :
-		  $$ f(V_1 + V_2, V_2 + V_2, V_3 \dots)  = 0 \quad \text{b/c f alternating}
+		  $$ f(V_1 + V_2, V_2 + V_2, V_3 \dots)  = 0 \quad \text{(b/c f alternating)}$$
+		-
