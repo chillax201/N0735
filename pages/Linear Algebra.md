@@ -46,6 +46,9 @@ collapsed:: true
 -
 - ## Determinant
 	- sum of $n!$ terms, each of which each is a product of n entries of $A$ chosen such that :
-		- 1. each column contributes exactly one factor
-		- 2. each row contributes exactly one factor
+		- each column contributes exactly one factor
+		  logseq.order-list-type:: number
+		- each row contributes exactly one factor
+		  logseq.order-list-type:: number
+	-
 	-
