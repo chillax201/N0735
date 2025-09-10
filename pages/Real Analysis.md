@@ -10,4 +10,5 @@
 			  $$x_i \rightarrow x_0 \quad \text{all pts in (-R,R)}$$
 			  then 
 			  $$P(x_i) \rightarrow P(x_0)$$
-		- i have no bullfuck idea what happened __lookup__ ___continuity of power series theorem___
+		- i have no bullfuck idea what happened _lookup_ ___continuity of power series theorem___
+		-
