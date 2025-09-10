@@ -5,4 +5,6 @@
 		  $$R = \frac{1}{\lim \sqrt[n]{|a_n|}}$$
 		- there are some conditions with the help of which we can deduce whether the power series converges or no depending on radius of convergence
 		- ### Thm:
-			- Let $R$ be the radius of convergence Let $P(x)$ be as defined above
+			- Let $R$ be the radius of convergence Let $P(x)$ be as defined above on $(-R,R)$
+			- if 
+			  $$x_i \arrow x_0 \text{all pts in (-R,R)}$$
