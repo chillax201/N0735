@@ -55,4 +55,6 @@ collapsed:: true
 -
 - ## Multilinear Function :
 	- Domain $V_1 \times V_2 \times \dots \times V_k$
-	- co
+	- CoDomain W
+	- where $V_i$ and $W$ are V.spaces
+	- f is called multilinear
