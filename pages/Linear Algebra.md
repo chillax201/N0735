@@ -60,4 +60,6 @@ collapsed:: true
 	- f is called multilinear is fixing all arguments except $i^{th}$ argument gives a linear function in $i^{th}$ argument. this holds for each i
 	- multilinear + alternating :
 		- if adjacent arguements of f are swapped then f becomes minus of what it was 
-		  e.g : $f(V_1,V_2\dots V_k) = -
+		  e.g : $f(V_1,V_2\dots V_k) = -f(V_2,V_1\dots V_k)$
+		- consider :
+		  $$ f(V_1 + V_2, V$$
