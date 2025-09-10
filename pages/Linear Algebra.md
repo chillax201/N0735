@@ -52,4 +52,8 @@ collapsed:: true
 		  logseq.order-list-type:: number
 	- $$det  = \sum sgn(\sigma)a_{1\sigma(1)}a_{2\sigma(2)} \dots a_{n\sigma(n)}$$
 	  where $\sigma$ is any permutation of column indices 1,2,...,n
-	-
+	- we know the following abotu determinants as well:
+		- multilinear (as a function of n row vectors)
+		  logseq.order-list-type:: number
+		- alternating
+		  logseq.order-list-type:: number
