@@ -56,9 +56,9 @@ collapsed:: true
 		- number of pairs $(i,j)$ such that $\quad i<j \quad$ & $\quad \sigma(i) > \sigma(j)$
 		- observe:
 			- $l(\sigma) = l(\sigma^{-1})$
-			- $$\sigma \xrightarrow{switch \; two \; adjacent \; entries, \; say \; in\; slots \; i,\; i+1} \mu$$
-			  $$\Rightarrow \quad l(\mu) = l(\sigma) \pm 1$$
-			-
+			- $\sigma \xrightarrow{switch \; two \; adjacent \; entries, \; say \; in\; slots \; i,\; i+1} \mu$
+			  $\Rightarrow \quad l(\mu) = l(\sigma) \pm 1$
+			- $\mu = \sigma
 		-
 - ## Multilinear Function :
   collapsed:: true
