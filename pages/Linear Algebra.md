@@ -56,7 +56,8 @@ collapsed:: true
 		- number of pairs $(i,j)$ such that $\quad i<j \quad$ & $\quad \sigma(i) > \sigma(j)$
 		- observe:
 			- $l(\sigma) = l(\sigma^{-1})$
-			- $$\sigma $$
+			- $$\sigma \rightarrow{switch} \mew$$
+			-
 		-
 - ## Multilinear Function :
   collapsed:: true
