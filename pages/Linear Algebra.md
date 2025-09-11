@@ -56,7 +56,7 @@
 			- $\sigma \xrightarrow{switch \; two \; adjacent \; entries, \; say \; in\; slots \; i,\; i+1} \mu$
 			  $\Rightarrow \quad l(\mu) = l(\sigma) \pm 1$
 			- $\mu = \sigma \circ S_i \quad \text{(where } s_i \text{is a permutation that switches i and i+1)}$
-			-
+			- $det(P^{-1}AP)
 - ## Multilinear Function :
 	- Domain $V_1 \times V_2 \times \dots \times V_k$
 	- CoDomain W
