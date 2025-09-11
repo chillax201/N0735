@@ -3,4 +3,5 @@
 	- he found that he could not find any mechanical experiment that would allow him to differentiate the moving ship from the docked one
 	-
 - ## Occam's razor
-- ## Galileo's
+- ## Galileo's principle of equivalence
+-
