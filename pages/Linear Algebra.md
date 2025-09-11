@@ -1,4 +1,6 @@
-## Linear map intro
+public:: true
+
+- ## Linear map intro
 	- $$
 	  V \xrightarrow{linear T} W \quad ker(T) = K \\
 	  K \mapsto 0 \\
