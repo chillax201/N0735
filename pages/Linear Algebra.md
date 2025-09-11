@@ -54,6 +54,8 @@ collapsed:: true
 	  where $\sigma$ is any permutation of column indices 1,2,...,n
 	- $l(\sigma) =$ number of inversions in $\sigma$ i.e
 		- number of pairs $(i,j)$ such that $\quad i<j \quad$ & $\quad \sigma(i) > \sigma(j)$
+		- observer $l(\sigma) = l(\sigma^{-1})$
+		-
 		-
 - ## Multilinear Function :
   collapsed:: true
