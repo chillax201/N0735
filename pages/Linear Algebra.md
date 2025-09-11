@@ -13,7 +13,6 @@ public:: true
 	- ### picture :
 		- ![image.png](../assets/image_1757415395232_0.png){:height 648, :width 356}
 -
--
 - ## Theorem 1.1 (rank nullity)
   collapsed:: true
 	- $$
