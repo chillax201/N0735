@@ -50,9 +50,9 @@ collapsed:: true
 		  logseq.order-list-type:: number
 		- each row contributes exactly one factor
 		  logseq.order-list-type:: number
-	- $$det(A)  = \sum sgn(\sigma)a_{1\sigma(1)}a_{2\sigma(2)} \dots a_{n\sigma(n)}$$
+	- $$det(A)  = \sum (-1)^{l(\sigma)}a_{1\sigma(1)}a_{2\sigma(2)} \dots a_{n\sigma(n)}$$
 	  where $\sigma$ is any permutation of column indices 1,2,...,n
--
+	- $l(\sigma) =$
 - ## Multilinear Function :
   collapsed:: true
 	- Domain $V_1 \times V_2 \times \dots \times V_k$
