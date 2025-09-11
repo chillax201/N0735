@@ -1,7 +1,6 @@
 public:: true
 
 - ## Linear map intro
-  collapsed:: true
 	- $$
 	  V \xrightarrow{linear T} W \quad ker(T) = K \\
 	  K \mapsto 0 \\
@@ -11,10 +10,10 @@ public:: true
 	  \text{(Fiber over }w \notin \text{range of T is empty )}
 	  $$
 	- ### picture :
+	  collapsed:: true
 		- ![image.png](../assets/image_1757415395232_0.png){:height 648, :width 356}
 -
 - ## Theorem 1.1 (rank nullity)
-  collapsed:: true
 	- $$
 	  dim(K) + dim(T(V)) = dim(V) \\
 	  nullity(T) + rank(T) = dim(domain)
@@ -27,12 +26,12 @@ public:: true
 		  valid by uniformity of fibers
 -
 - ## Change of basis
-  collapsed:: true
 	- ### Change of basis :
 	  $$ M_{B',C'}(T) = Q^{-1}M_{B,C}(T)P$$
 	- __fill in proof for above__
 	-
 	- Diagram:
+	  collapsed:: true
 		- ![image.png](../assets/image_1757416091542_0.png){:height 287, :width 277}
 	- Meaning of matrix of T wrt B,C is $A''$:
 	  $$[T(v)]_C = A [V]_B$$
@@ -44,7 +43,6 @@ public:: true
 		  $$
 -
 - ## Determinant
-  collapsed:: true
 	- sum of $n!$ terms, each of which each is a product of n entries of $A$ chosen such that :
 		- each column contributes exactly one factor
 		  logseq.order-list-type:: number
@@ -63,7 +61,6 @@ public:: true
 		-
 -
 - ## Multilinear Functions
-  collapsed:: true
 	- Domain $V_1 \times V_2 \times \dots \times V_k$
 	- CoDomain W
 	- where $V_i$ and $W$ are V.spaces
