@@ -57,7 +57,7 @@ collapsed:: true
 		- observe:
 			- $l(\sigma) = l(\sigma^{-1})$
 			- $$\sigma \xrightarrow{switch \; two \; adjacent \; entries, \; say \; in\; slots \; i,\; i+1} \mu$$
-			  $$\Rightarrow l(\mu) = $$
+			  $$\Rightarrow l(\mu) = l(\sigma) +- 1$$
 			-
 		-
 - ## Multilinear Function :
