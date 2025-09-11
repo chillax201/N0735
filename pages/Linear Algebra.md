@@ -1,6 +1,7 @@
 public:: true
 
 - ## Linear map intro
+  collapsed:: true
 	- $$
 	  V \xrightarrow{linear T} W \quad ker(T) = K \\
 	  K \mapsto 0 \\
@@ -14,6 +15,7 @@ public:: true
 -
 -
 - ## Theorem 1.1 (rank nullity)
+  collapsed:: true
 	- $$
 	  dim(K) + dim(T(V)) = dim(V) \\
 	  nullity(T) + rank(T) = dim(domain)
@@ -25,8 +27,8 @@ public:: true
 		  $$ P^n = P^r \cdot P^k$$
 		  valid by uniformity of fibers
 -
--
 - ## Change of basis
+  collapsed:: true
 	- ### Change of basis :
 	  $$ M_{B',C'}(T) = Q^{-1}M_{B,C}(T)P$$
 	- __fill in proof for above__
@@ -42,8 +44,8 @@ public:: true
 		  [V]_{B'} = P^{-1}[V]_B \\
 		  $$
 -
--
 - ## Determinant
+  collapsed:: true
 	- sum of $n!$ terms, each of which each is a product of n entries of $A$ chosen such that :
 		- each column contributes exactly one factor
 		  logseq.order-list-type:: number
@@ -60,7 +62,9 @@ public:: true
 			- $\mu = \sigma \circ S_i \quad \text{(where } s_i \text{is a permutation that switches i and i+1)}$
 			- $det(P^{-1}AP) = det(A)$ implies that determinant is an intrinsic property of operator itself and doesn't depend on basis
 		-
-- ## Multilinear Function :
+-
+- ## Multilinear Functions
+  collapsed:: true
 	- Domain $V_1 \times V_2 \times \dots \times V_k$
 	- CoDomain W
 	- where $V_i$ and $W$ are V.spaces
