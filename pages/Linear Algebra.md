@@ -45,6 +45,7 @@ collapsed:: true
 -
 -
 - ## Determinant
+  collapsed:: true
 	- sum of $n!$ terms, each of which each is a product of n entries of $A$ chosen such that :
 		- each column contributes exactly one factor
 		  logseq.order-list-type:: number
@@ -54,6 +55,7 @@ collapsed:: true
 	  where $\sigma$ is any permutation of column indices 1,2,...,n
 -
 - ## Multilinear Function :
+  collapsed:: true
 	- Domain $V_1 \times V_2 \times \dots \times V_k$
 	- CoDomain W
 	- where $V_i$ and $W$ are V.spaces
