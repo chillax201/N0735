@@ -5,4 +5,5 @@
 - ## Occam's razor
 - ## Galileo's principle of equivalence
 	- leaning tower of pisa (uniformity of acceleration under gravity)
-	- he also discovered time period
+	- he also discovered time period of a pendulum
+	-
