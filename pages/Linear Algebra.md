@@ -1,5 +1,4 @@
 ## Linear map intro
-collapsed:: true
 	- $$
 	  V \xrightarrow{linear T} W \quad ker(T) = K \\
 	  K \mapsto 0 \\
@@ -13,7 +12,6 @@ collapsed:: true
 -
 -
 - ## Theorem 1.1 (rank nullity)
-  collapsed:: true
 	- $$
 	  dim(K) + dim(T(V)) = dim(V) \\
 	  nullity(T) + rank(T) = dim(domain)
@@ -27,7 +25,6 @@ collapsed:: true
 -
 -
 - ## Change of basis
-  collapsed:: true
 	- ### Change of basis :
 	  $$ M_{B',C'}(T) = Q^{-1}M_{B,C}(T)P$$
 	- __fill in proof for above__
@@ -61,7 +58,6 @@ collapsed:: true
 			- $\mu = \sigma \circ S_i \quad \text{(where } s_i \text{is a permutation that switches i and i+1)}$
 			-
 - ## Multilinear Function :
-  collapsed:: true
 	- Domain $V_1 \times V_2 \times \dots \times V_k$
 	- CoDomain W
 	- where $V_i$ and $W$ are V.spaces
