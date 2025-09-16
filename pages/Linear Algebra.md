@@ -82,4 +82,6 @@ public:: true
 			  $$V= W_1 \oplus \dots \oplus W_n \quad \text{(internal)}$$
 	- ### external
 		- External direct sum of any vector spaces $W_1, \dots ,W_n$ is the set $W_1\times \dots \times W_n$ made into a vector space with component wise + and scalar multiplication we denote this v.space by :
-		  $$W_1\oplus \dots\oplus W_n \quad \text{external}$
+		  $$W_1\oplus \dots\oplus W_n \quad \text{external}$$
+		- Note 
+		  $$\RR^n = \RR \oplus $$
