@@ -77,4 +77,4 @@ public:: true
 		- definitions:
 			- span {$W_{\alpha}$} = set of all sums of vectors from $\underset{\alpha \in I}{\cup}W_{\alpha}$
 				- we say {$W_{\alpha}$} spans $V$ is $\Sigma W_{\alpha} = V$
-			-
+			- {$W_{\alpha}} is a linear independent family of subspaces means $\
