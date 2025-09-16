@@ -56,7 +56,7 @@ public:: true
 			- $l(\sigma) = l(\sigma^{-1})$
 			- $\sigma \xrightarrow{switch \; two \; adjacent \; entries, \; say \; in\; slots \; i,\; i+1} \mu$
 			  $\Rightarrow \quad l(\mu) = l(\sigma) \pm 1$
-			- $\mu = \sigma \circ S_i \quad \text{(where } s_i \text{is a permutation that switches i and i+1)}$
+			- $\mu = \sigma \circ S_i \quad \text{(where } s_i \text{ is a permutation that switches i and i+1)}$
 			- $det(P^{-1}AP) = det(A)$ implies that determinant is an intrinsic property of operator itself and doesn't depend on basis
 		-
 -

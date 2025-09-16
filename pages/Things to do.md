@@ -1,4 +1,4 @@
-public:: true
+public:: false
 
 - [[Linear Algebra]]
 	- proof of change of basis formula
