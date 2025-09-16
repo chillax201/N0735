@@ -72,7 +72,7 @@ public:: true
 		  $$ f(V_1 + V_2, V_2 + V_2, V_3 \dots)  = 0 \quad \text{(b/c f alternating)}$$
 -
 - ## Direct Sum
-	- internal
+	- ### internal
 		- Let $W_{\alpha} \quad \alpha \in I$ be a family of a vector space $V$
 		- definitions:
 			- span {$W_{\alpha}$} = set of all sums of vectors from $\underset{\alpha \in I}{\cup}W_{\alpha}$
@@ -80,4 +80,5 @@ public:: true
 			- {$W_{\alpha}$} is a linear independent family of subspaces means $\sum W_{\alpha} \Rightarrow$ each $W_{\alpha} = 0$
 			- If $W_1, \dots W_n$ subspaces of V are linearly independent, then we say V is (internal)direct sum of $W_1, \dots, W_n$ and write
 			  $$V= W_1 \oplus \dots \oplus W_n$$(internal)
-	-
+	- ### external
+		-
