@@ -9,5 +9,5 @@ public:: true
 	- leaning tower of pisa (uniformity of acceleration under gravity)
 	- he also discovered time period of a pendulum
 -
--
--
+- ## Phase Space & Phase portrait
+	- NSL in 2$^nd$ order in
