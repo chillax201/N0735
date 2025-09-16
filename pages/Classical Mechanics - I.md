@@ -12,8 +12,8 @@ public:: true
 - ## Phase Space & Phase portrait
 	- NSL in 2$^nd$ order in time 
 	  $$m\ddot{\vec{r}} = \vec{f}(\vec{r})$$
-	  to solve we need 2 sets of initial data :
+	  to solve we need 2 sets of initial data in phase space () :
 		- initial position $\vec{r}(0)$
 		- initial velocity $\dot{\vec{r}}(0)$
-	- Recall : postion space = set of possible positions
-	- state space or
+	- Recall : configuration space ($Q$)= set of possible positions
+	- state space or phase space : set of all instantaneous states of system
