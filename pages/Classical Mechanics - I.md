@@ -14,4 +14,6 @@ public:: true
 	  $$m\ddot{\vec{r}} = \vec{f}(\vec{r})$$
 	  to solve we need 2 sets of initial data :
 		- initial position $\vec{r}(0)$
-		- initial velocity $\dot{\vec{}}
+		- initial velocity $\dot{\vec{r}}(0)$
+	-
+		-
