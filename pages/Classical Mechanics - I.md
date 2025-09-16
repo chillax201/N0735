@@ -20,6 +20,4 @@ public:: true
 		- $$dim(M) = 2dim(Q)$$
 	- A trajectory $(x(t),p(t))$ on $M$ is a curve $\rightarrow$ extend as far as possible into past and future
 		- it is directed along increasing time
-		- $$p(x) = m\frac{dx}{dt}$$
-		-
-		-
+	- a phase portrait of a free particle is a diagram which express multiple trajectories in one diagram
