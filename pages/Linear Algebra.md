@@ -75,4 +75,4 @@ public:: true
 	- internal
 		- Let $W_{\alpha} \quad \alpha \in I$ be a family of a vector space $V$
 		- definitions:
-			-
+			- span {$W_{\alpha}$} = set of all sums of vectors from $union
