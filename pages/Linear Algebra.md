@@ -72,5 +72,5 @@ public:: true
 		  $$ f(V_1 + V_2, V_2 + V_2, V_3 \dots)  = 0 \quad \text{(b/c f alternating)}$$
 -
 - ## Direct Sum
-	- * internal
-	-
+	- internal
+		- Let $W_{/alpha} \:
