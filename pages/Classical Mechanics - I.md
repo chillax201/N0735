@@ -15,5 +15,5 @@ public:: true
 	  to solve we need 2 sets of initial data :
 		- initial position $\vec{r}(0)$
 		- initial velocity $\dot{\vec{r}}(0)$
-	-
-		-
+	- Recall : postion space = set of possible positions
+	- state space or
