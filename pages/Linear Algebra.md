@@ -71,4 +71,4 @@ public:: true
 		- consider :
 		  $$ f(V_1 + V_2, V_2 + V_2, V_3 \dots)  = 0 \quad \text{(b/c f alternating)}$$
 -
--
+	-
