@@ -10,4 +10,5 @@ public:: true
 	- he also discovered time period of a pendulum
 -
 - ## Phase Space & Phase portrait
-	- NSL in 2$^nd$ order in
+	- NSL in 2$^nd$ order in time 
+	  $$$$
