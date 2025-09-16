@@ -78,4 +78,4 @@ public:: true
 			- span {$W_{\alpha}$} = set of all sums of vectors from $\underset{\alpha \in I}{\cup}W_{\alpha}$
 				- we say {$W_{\alpha}$} spans $V$ is $\sum W_{\alpha} = V$
 			- {$W_{\alpha}$} is a linear independent family of subspaces means $\sum W_{\alpha} \Rightarrow$ each $W_{\alpha} = 0$
-			- If $W_1, \dots W_n$ subspaces of V are linearly independent
+			- If $W_1, \dots W_n$ subspaces of V are linearly independent, then we say V is (internal)direct sum of $W_1, \dots, W_n$ and write
