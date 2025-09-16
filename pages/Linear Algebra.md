@@ -76,4 +76,4 @@ public:: true
 		- Let $W_{\alpha} \quad \alpha \in I$ be a family of a vector space $V$
 		- definitions:
 			- span {$W_{\alpha}$} = set of all sums of vectors from $\underset{\alpha \in I}{\cup}W_{\alpha}$
-				- we say {$W_{\alpha}}
+				- we say {$W_{\alpha}$}_{\alpha \in I}$}
