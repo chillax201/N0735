@@ -8,4 +8,4 @@ public:: true
 - ## Galileo's principle of equivalence
 	- leaning tower of pisa (uniformity of acceleration under gravity)
 	- he also discovered time period of a pendulum
-	-
+-
