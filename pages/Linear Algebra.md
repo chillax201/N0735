@@ -62,7 +62,7 @@ public:: true
 -
 - ## Multilinear Functions
 	- Domain $V_1 \times V_2 \times \dots \times V_k$
-	- CoDomain W
+	- Co-domain W
 	- where $V_i$ and $W$ are V.spaces
 	- f is called multilinear is fixing all arguments except $i^{th}$ argument gives a linear function in $i^{th}$ argument. this holds for each i
 	- multilinear + alternating :
