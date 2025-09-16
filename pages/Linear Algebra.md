@@ -73,4 +73,6 @@ public:: true
 -
 - ## Direct Sum
 	- internal
-		- Let $W_{\alpha} \quad \alpha \in I$
+		- Let $W_{\alpha} \quad \alpha \in I$ be a family of a vector space $V$
+		- definitions:
+			-
