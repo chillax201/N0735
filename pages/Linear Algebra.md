@@ -70,4 +70,5 @@ public:: true
 		  e.g : $f(V_1,V_2\dots V_k) = -f(V_2,V_1\dots V_k)$
 		- consider :
 		  $$ f(V_1 + V_2, V_2 + V_2, V_3 \dots)  = 0 \quad \text{(b/c f alternating)}$$
-	-
+-
+-
