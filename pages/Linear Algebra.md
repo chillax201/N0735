@@ -81,4 +81,5 @@ public:: true
 			- If $W_1, \dots W_n$ subspaces of V are linearly independent, then we say V is (internal)direct sum of $W_1, \dots, W_n$ and write
 			  $$V= W_1 \oplus \dots \oplus W_n$$(internal)
 	- ### external
-		- External direct sum of any vector spaces $W_1, \dots ,W_n$ is the set $W_1\times \dots \times W_n$ made into a vector space with component wise + and scalar multiplication
+		- External direct sum of any vector spaces $W_1, \dots ,W_n$ is the set $W_1\times \dots \times W_n$ made into a vector space with component wise + and scalar multiplication we denote this v.space by :
+		  $$W_1\oplus \dots\oplusW_n$
