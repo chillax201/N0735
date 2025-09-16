@@ -17,4 +17,5 @@ public:: true
 		- initial velocity $\dot{\vec{r}}(0)$
 	- Recall : configuration space ($Q$)= set of possible positions
 	- state space or phase space ($M$) : set of all instantaneous states of system
-		- $$dim(M) = 2dim($$
+		- $$dim(M) = 2dim(Q)$$
+	- A trajectory $(x(t),p(t))$ on $M$
