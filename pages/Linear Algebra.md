@@ -73,4 +73,4 @@ public:: true
 -
 - ## Direct Sum
 	- internal
-		- Let $W_{/alpha} \:
+		- Let $W_{\alpha} \quad \alpha \in I$
