@@ -79,7 +79,7 @@ public:: true
 				- we say {$W_{\alpha}$} spans $V$ is $\sum W_{\alpha} = V$
 			- {$W_{\alpha}$} is a linear independent family of subspaces means $\sum W_{\alpha} \Rightarrow$ each $W_{\alpha} = 0$
 			- If $W_1, \dots W_n$ subspaces of V are linearly independent, then we say V is (internal)direct sum of $W_1, \dots, W_n$ and write
-			  $$V= W_1 \oplus \dots \oplus W_n$$(internal)
+			  $$V= W_1 \oplus \dots \oplus W_n \quad \text{(internal)}$$
 	- ### external
 		- External direct sum of any vector spaces $W_1, \dots ,W_n$ is the set $W_1\times \dots \times W_n$ made into a vector space with component wise + and scalar multiplication we denote this v.space by :
-		  $$W_1\oplus \dots\oplusW_n$
+		  $$W_1\oplus \dots\oplus W_n \quad \text{external}$
