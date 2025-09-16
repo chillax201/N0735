@@ -21,3 +21,5 @@ public:: true
 	- A trajectory $(x(t),p(t))$ on $M$ is a curve $\rightarrow$ extend as far as possible into past and future
 		- it is directed along increasing time
 	- a phase portrait of a free particle is a diagram which express multiple trajectories in one diagram
+	  conserved quantities help us draw the phase portrait
+	- the level set of a conserved quantity is a union of trajectories
