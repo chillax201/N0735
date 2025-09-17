@@ -126,4 +126,5 @@ public:: true
 	- If F is a subfield of $E$ , then in particular $E$ is a vector space over $F$.
 	  $dim E$ as a bector space over $F$
 	  is denoted $[E:F]$ is (called degree of $E$ over $F$)
-	-
+	- examples of finite fields 
+	  numbers$\mod p \ quad \text{for P prime}$
