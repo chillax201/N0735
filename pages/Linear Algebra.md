@@ -86,4 +86,6 @@ public:: true
 		- Note 
 		  $$\R^n = \R \oplus \dots \oplus \R \quad \text{n times}$$
 - ## Extending functions
-	- we know that is $B \subset U$ is a basis and there is a function $f$ from $B$ to $V$ then there is always a natural extension of the function $f$ such that it maps all vectors in $
+	- we know that is $B \subset U$ is a basis and there is a function $f$ from $B$ to $V$ then there is always a natural extension of the function $f$ such that it maps all vectors in $U$ to vectors in $V$
+	- similarly we do the following:
+		-
