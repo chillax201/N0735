@@ -105,7 +105,8 @@ public:: true
 			- now we need to show that RHS is $k+l+m$
 			- now our claim is that {$X_1, \dots, X_k,Y_1,\dots,Y_l,Z_1,\dots,Z_l$} is a basis for $W_1+W_2$
 			- Let $\sum a_p X_p + \sum b_q Y_q + \sum c_r Z_r = 0$
-			  $\Rightarrow \sum a_p X_p + \sum b_q Y_q + \sum c_r Z_r
+			  $\Rightarrow \sum a_p X_p + \sum b_q Y_q = \sum -c_r Z_r = u \quad (u \in W_1 \cap W_2)$
+			-
 - ## Extending functions
 	- we know that is $B \subset U$ is a basis and there is a function $f$ from $B$ to $V$ then there is always a natural extension of the function $f$ such that it maps all vectors in $U$ to vectors in $V$
 	- similarly we can do the following for linearly independent subspaces $W_1, \dots W_n$:
