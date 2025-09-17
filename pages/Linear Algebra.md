@@ -87,7 +87,7 @@ public:: true
 					  logseq.order-list-type:: number
 					- $W_1+W_2 = V$
 					  logseq.order-list-type:: number
-					- $dim(W_i) + dim(W_2 = dim(V)
+					- $dim(W_i) + dim(W_2) = dim(V)$
 					  logseq.order-list-type:: number
 	- ### external
 		- External direct sum of any vector spaces $W_1, \dots ,W_n$ is the set $W_1\times \dots \times W_n$ made into a vector space with component wise + and scalar multiplication we denote this v.space by :
