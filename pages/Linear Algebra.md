@@ -88,4 +88,4 @@ public:: true
 - ## Extending functions
 	- we know that is $B \subset U$ is a basis and there is a function $f$ from $B$ to $V$ then there is always a natural extension of the function $f$ such that it maps all vectors in $U$ to vectors in $V$
 	- similarly we can do the following for linearly independent subspaces $W_1, \dots W_n$:
-		- given any linear map $f_i : W_i \rightarrow U \exists!$ simultaneous extension $f:V\rightarrow U$
+		- given any linear map $f_i : W_i \rightarrow U \exists!$ simultaneous extension $f:V\rightarrow U$ of all $f_i$ (i.e)
