@@ -122,5 +122,5 @@ public:: true
 -
 - ## Fields
   Informally a set with well behaved arithmetic of 4 operations $+,-,\cdot,\div$
-	- examples are $\R, \C and \Q$
+	- examples are $\R, \mathbb{C}$ and $\mathbb{Q}$
 	-
