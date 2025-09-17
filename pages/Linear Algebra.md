@@ -94,7 +94,8 @@ public:: true
 		  $$W_1\oplus \dots\oplus W_n \quad \text{external}$$
 		- Note 
 		  $$\R^n = \R \oplus \dots \oplus \R \quad \text{n times}$$
-	- ###
+	- ### Theorem
+		- $dim(W_1) + dim(W_2) - dim (W_1\cap W_@)
 - ## Extending functions
 	- we know that is $B \subset U$ is a basis and there is a function $f$ from $B$ to $V$ then there is always a natural extension of the function $f$ such that it maps all vectors in $U$ to vectors in $V$
 	- similarly we can do the following for linearly independent subspaces $W_1, \dots W_n$:
