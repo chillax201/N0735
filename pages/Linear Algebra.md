@@ -83,8 +83,11 @@ public:: true
 			- special case 
 			  n = $W_1,W_2$ subspaces of $V$
 				- we saw $V= W_1 \oplus W_2 \Leftrightarrow$ (any 2 of the following 3)
-					- $W_1 \cap
+					- $W_1 \cap W_2 = 0$
 					  logseq.order-list-type:: number
+					- $W_1+W_2$
+					  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 	- ### external
 		- External direct sum of any vector spaces $W_1, \dots ,W_n$ is the set $W_1\times \dots \times W_n$ made into a vector space with component wise + and scalar multiplication we denote this v.space by :
 		  $$W_1\oplus \dots\oplus W_n \quad \text{external}$$
