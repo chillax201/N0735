@@ -2,4 +2,4 @@
 - the TAs will give you a colonoscopy
 - K is not nice
 - we don't have to be so cute also
-- let's call it $a'$ so that it's not emotional $
+- let's call it $a'$ so that it's not emotionally $a^{1/a}$
