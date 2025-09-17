@@ -124,4 +124,4 @@ public:: true
   Informally a set with well behaved arithmetic of 4 operations $+,-,\cdot,\div$
 	- examples are $\R, \mathbb{C}$ and $\mathbb{Q}$
 	- If F is a subfield of E , then in particular E is a vector space over F. dim E as a bector space over F
-	  is denoted
+	  is denoted $[E:F]$ is (called degree of $E$ over $F$)
