@@ -85,4 +85,5 @@ public:: true
 		  $$W_1\oplus \dots\oplus W_n \quad \text{external}$$
 		- Note 
 		  $$\R^n = \R \oplus \dots \oplus \R \quad \text{n times}$$
--
+- ## Extending functions
+	- we know that is $B$ is a basis and there is a function from B to
