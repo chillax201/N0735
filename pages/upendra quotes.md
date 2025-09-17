@@ -1,3 +1,4 @@
 - we'll make the abuse precise
 - the TAs will give you a colonoscopy
 - K is not nice
+- we don't have to be so cute also
