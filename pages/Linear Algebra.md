@@ -99,7 +99,8 @@ public:: true
 	  where $W_1$ and $W_2$ are both subspaces of some vector space
 		- proof :
 			- let {$X_1, \dots, X_k$} be a basis for $W_1 \cap W_2$
-			- extend to {$}
+			- extend to {$X_1, \dots, X_k,Y_1,\dots,Y_l$} for a basis for $W_1$
+			-
 - ## Extending functions
 	- we know that is $B \subset U$ is a basis and there is a function $f$ from $B$ to $V$ then there is always a natural extension of the function $f$ such that it maps all vectors in $U$ to vectors in $V$
 	- similarly we can do the following for linearly independent subspaces $W_1, \dots W_n$:
