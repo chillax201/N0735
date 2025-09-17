@@ -103,7 +103,7 @@ public:: true
 			- extend to {$X_1, \dots, X_k,Z_1,\dots,Z_l$} for a basis for $W_2$
 			- LHS = $$(k+l) + (k+m) - k = k+l+m$$
 			- now we need to show that RHS is $k+l+m$
-			- now our claim is that $S=${$X_1, \dots, X_k,Y_1,\dots,Y_l,Z_1,\dots,Z_l$} is a basis for $W_1+W_2$
+			- now our claim is that $S=$ {$X_1, \dots, X_k,Y_1,\dots,Y_l,Z_1,\dots,Z_l$} is a basis for $W_1+W_2$
 			- Let $\sum a_p X_p + \sum b_q Y_q + \sum c_r Z_r = 0$
 			  $\Rightarrow \sum a_p X_p + \sum b_q Y_q = \sum -c_r Z_r = u \quad (u \in W_1 \cap W_2)$
 			  note : $\sum a_p X_p + \sum b_q Y_q \in W_1 \quad \sum -c_r Z_r  \in W_2$
@@ -112,7 +112,7 @@ public:: true
 			  Each $c_r = 0$ looking at RHS as element of $W_2$
 			  So $LHS = RHS = 0$
 			  $\Rightarrow a_p = 0 \quad \forall p$
-			- this shows
+			- this shows $s$ spans $W_1+W_2$ and
 - ## Extending functions
 	- we know that is $B \subset U$ is a basis and there is a function $f$ from $B$ to $V$ then there is always a natural extension of the function $f$ such that it maps all vectors in $U$ to vectors in $V$
 	- similarly we can do the following for linearly independent subspaces $W_1, \dots W_n$:
