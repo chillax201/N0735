@@ -102,7 +102,7 @@ public:: true
 			- extend to {$X_1, \dots, X_k,Y_1,\dots,Y_l$} for a basis for $W_1$
 			- extend to {$X_1, \dots, X_k,Z_1,\dots,Z_l$} for a basis for $W_2$
 			- LHS = $$(k+l) + (k+m) - k = k+l+m$$
-			- now we need to show that RHS is $k+l+m$
+			- now we need to show that RHS is $k+l+m$ (i)
 			- now our claim is that $S=$ {$X_1, \dots, X_k,Y_1,\dots,Y_l,Z_1,\dots,Z_l$} is a basis for $W_1+W_2$
 			- Let $\sum a_p X_p + \sum b_q Y_q + \sum c_r Z_r = 0$
 			  $\Rightarrow \sum a_p X_p + \sum b_q Y_q = \sum -c_r Z_r = u \quad (u \in W_1 \cap W_2)$
@@ -112,9 +112,12 @@ public:: true
 			  Each $c_r = 0$ looking at RHS as element of $W_2$
 			  So $LHS = RHS = 0$
 			  $\Rightarrow a_p = 0 \quad \forall p$
-			- this shows $s$ spans $W_1+W_2$ and
+			- this shows $s$ spans $W_1+W_2$ and elements are linearly independent
+			  hence, we show (i)
 - ## Extending functions
 	- we know that is $B \subset U$ is a basis and there is a function $f$ from $B$ to $V$ then there is always a natural extension of the function $f$ such that it maps all vectors in $U$ to vectors in $V$
 	- similarly we can do the following for linearly independent subspaces $W_1, \dots W_n$:
 		- given any linear map $f_i : W_i \rightarrow U \exists!$ simultaneous extension 
 		  $f:V\rightarrow U$ of all $f_i$ (i.e $f|_{W_i} = f_i$)
+-
+- ## Fields
