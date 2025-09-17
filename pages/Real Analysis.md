@@ -19,3 +19,4 @@ public:: true
 			- Then i can show a permutation $\pi:\left\{1,2, \dots \right\} \rightarrow \left\{1,2, \dots \right\}$
 			- such that $a_{\pi(1)} + a_{\pi(2)} + a_{\pi(3)} + \dots = \alpha$
 		-
+		-
