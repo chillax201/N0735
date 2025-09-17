@@ -121,3 +121,4 @@ public:: true
 		  $f:V\rightarrow U$ of all $f_i$ (i.e $f|_{W_i} = f_i$)
 -
 - ## Fields
+  Informally a set with well behaved arithmetic of 4 operations $+,-,\dot,
