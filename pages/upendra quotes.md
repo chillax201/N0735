@@ -1,0 +1,3 @@
+- we'll make the abuse precise
+- the TAs will give you a colonoscopy
+- K is not nice
