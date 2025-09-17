@@ -109,7 +109,9 @@ public:: true
 			  note : $\sum a_p X_p + \sum b_q Y_q \in W_1 \quad \sum -c_r Z_r  \in W_2$
 			- from above we get 
 			  Each $b_q = 0$ looking at LHS as element of $W_1$
-			  Each $c_r = 0$ looking at LHS as element of $W_1$
+			  Each $c_r = 0$ looking at RHS as element of $W_2$
+			  So $LHS = RHS = 0 $
+			  $\Rightarrow a_p = 0 \forallp
 - ## Extending functions
 	- we know that is $B \subset U$ is a basis and there is a function $f$ from $B$ to $V$ then there is always a natural extension of the function $f$ such that it maps all vectors in $U$ to vectors in $V$
 	- similarly we can do the following for linearly independent subspaces $W_1, \dots W_n$:
