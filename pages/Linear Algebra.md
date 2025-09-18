@@ -140,5 +140,6 @@ public:: true
 	  $(a+b)c = ac + bc$
 	  $c(a+b) = ca +cb$
 	- then we call $(S,+,\cdot,0,1)$ a ring
-	-
+	- Monoid :
+		- associative
 -
