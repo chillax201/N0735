@@ -131,4 +131,5 @@ public:: true
 	- all of 'linear algebra 0' stay valid if we take scalars to be any field F ("over F")
 -
 - ## Some definitions
-	- suppose a set S has two operations $+,\cdot :$
+	- suppose a set S has two operations $+,\cdot : S\times S \rightarrow S$ st
+	  $\exists$ neutral element 0 for $+$
