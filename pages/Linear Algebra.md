@@ -137,3 +137,6 @@ public:: true
 	- $(S,+,0)$ is an abelian group
 	- $(S,\cdot,1)$ is a monoid
 	- distributivity holds i.e
+	  $(a+b)c = ac + bc$
+	  $c(a+b) = ca$
+-
