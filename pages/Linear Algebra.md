@@ -128,4 +128,4 @@ public:: true
 	  is denoted $[E:F]$ is (called degree of $E$ over $F$)
 	- examples of finite fields 
 	  numbers$\mod p \quad \text{(for P prime)}$
-	-
+	- all of 'linear algebra 0' stay valid if we take scalars to be any field F ("over F")
