@@ -145,4 +145,4 @@ public:: true
 	- Monoid + every element has inverse = group
 	- if operations is commutative we call it a commutative monoid/group (terminology commutative group = abelian group)
 	- example of non-commutative ring : For Vector space V, take (L(v,v), pointwise addition, composition)
-	-
+	- A ring $(F,+,\cdot,0,1)$ is called a field
