@@ -147,4 +147,5 @@ public:: true
 	- example of non-commutative ring : For Vector space V, take (L(v,v), pointwise addition, composition)
 	- A ring $(F,+,\cdot,0,1)$ is called a field if mult is commutative and $(F^{\times},\cdot)$ is an abelian group
 	- $F^{\times} = F \ \{0\}$
-	-
+	- ## Theorem
+	  The ring $\Z / n\Z$ is a field $\Leftrightarrow$
