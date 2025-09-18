@@ -133,3 +133,5 @@ public:: true
 - ## Some definitions
 	- suppose a set S has two operations $+,\cdot : S\times S \rightarrow S$ st
 	  $\exists$ neutral element 0 for $+$
+	      neutral element 1 for $\cdot$
+	- $(S,+,0)
