@@ -146,4 +146,5 @@ public:: true
 	- if operations is commutative we call it a commutative monoid/group (terminology commutative group = abelian group)
 	- example of non-commutative ring : For Vector space V, take (L(v,v), pointwise addition, composition)
 	- A ring $(F,+,\cdot,0,1)$ is called a field if mult is commutative and $(F^{\times},\cdot)$ is an abelian group
-	- $F^{\}
+	- $F^{\times} = F \ \{0\}$
+	-
