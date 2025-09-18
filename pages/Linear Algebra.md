@@ -128,3 +128,4 @@ public:: true
 	  is denoted $[E:F]$ is (called degree of $E$ over $F$)
 	- examples of finite fields 
 	  numbers$\mod p \quad \text{(for P prime)}$
+	-
