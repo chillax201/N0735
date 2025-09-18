@@ -134,4 +134,6 @@ public:: true
 	- suppose a set S has two operations $+,\cdot : S\times S \rightarrow S$ st
 	  $\exists$ neutral element 0 for $+$
 	      neutral element 1 for $\cdot$
-	- $(S,+,0)
+	- $(S,+,0)$ is an abelian group
+	- $(S,\cdot,1)$ is a monoid
+	- distributivity holds i.e
