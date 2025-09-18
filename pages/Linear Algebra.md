@@ -138,5 +138,7 @@ public:: true
 	- $(S,\cdot,1)$ is a monoid
 	- distributivity holds i.e
 	  $(a+b)c = ac + bc$
-	  $c(a+b) = ca$
+	  $c(a+b) = ca +cb$
+	- then we call $(S,+,\cdot,0,1)$ a ring
+	-
 -
