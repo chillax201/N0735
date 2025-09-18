@@ -141,5 +141,5 @@ public:: true
 	  $c(a+b) = ca +cb$
 	- then we call $(S,+,\cdot,0,1)$ a ring
 	- Monoid :
-		- associative
+		- associative binary operation with identity e.g.($\Z_{\geq0},+$)
 -
