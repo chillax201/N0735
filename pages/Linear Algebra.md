@@ -144,5 +144,5 @@ public:: true
 		- associative binary operation with identity e.g.($\Z_{\geq0},+$), ($\Z_{\geq0},\cdot$), (Functions ($S\rightarrow S), 0$)
 	- Monoid + every element has inverse = group
 	- if operations is commutative we call it a commutative monoid/group (terminology commutative group = abelian group)
-	- example of non-commutative ring : For Vector space V, take (L(v,v), poitnwise +, composition
--
+	- example of non-commutative ring : For Vector space V, take (L(v,v), pointwise addition, composition)
+	-
