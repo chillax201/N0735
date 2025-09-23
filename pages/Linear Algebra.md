@@ -156,5 +156,6 @@ public:: true
 		- we call a nonzero vector $v\in V$ an eigenvector of $T$ if $T(v) = \lambda v$ for 
 		  logseq.order-list-type:: number
 		  some scalar $\lambda$. this scalar is called the eigenvalue of the eigenvector $v$ of $T$
-		- If $V=
+		- If $V= \R ^n$ & $T(v) = Av$ for swuare matr
 		  logseq.order-list-type:: number
+-
