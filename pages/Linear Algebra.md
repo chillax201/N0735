@@ -155,8 +155,10 @@ public:: true
 		- let T be an operator on V
 		- we call a nonzero vector $v\in V$ an eigenvector of $T$ if $T(v) = \lambda v$ for 
 		  logseq.order-list-type:: number
-		  some scalar $\lambda$. this scalar is called the eigenvalue of the eigenvector $v$ of $T$
+		  some scalar $\lambda$.
+		- this scalar is called the eigenvalue of the eigenvector $v$ of $T$
+		  logseq.order-list-type:: number
 		- If $V= \R ^n$ & $T(v) = Av$ for square matrix $A$, then we use same words for A
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+	-
 -
