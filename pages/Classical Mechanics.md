@@ -27,4 +27,6 @@ public:: true
 - moment of refers to left cross multiplying by r
 -
 - collision or scattering of particles :
-	- collis
+	- collision does not mean particles come into contact
+	- far past particles are far separated and behave like free particles and also in the far future
+	- at intermediate times they are subject to
