@@ -24,4 +24,4 @@ public:: true
 	  conserved quantities help us draw the phase portrait
 	- the level set of a conserved quantity is a union of trajectories
 -
--
+- moment of refers to left cross multiplying by r
