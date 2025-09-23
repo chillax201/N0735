@@ -153,5 +153,8 @@ public:: true
 - ## Eigen vectors
 	- ### definition
 		- let T be an operator on V
-		- we call a nonzero vector $v\in V$ an eigenvector of $T$ if $T(v) = \lambda v$
+		- we call a nonzero vector $v\in V$ an eigenvector of $T$ if $T(v) = \lambda v$ for 
+		  logseq.order-list-type:: number
+		  some scalar $\lambda$. this scalar is called the eigenvalue of the eigenvector $v$ of $T$
+		- If $V=
 		  logseq.order-list-type:: number
