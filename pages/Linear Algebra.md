@@ -160,5 +160,5 @@ public:: true
 		  logseq.order-list-type:: number
 		- If $V= \R ^n$ & $T(v) = Av$ for square matrix $A$, then we use same words for A
 		  logseq.order-list-type:: number
-	-
+	- operator T on V is diagonal $$\Leftrightarrow$$ V has a basis consisiting of eigenvectors of T "eigenbasis"
 -
