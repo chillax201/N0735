@@ -150,4 +150,8 @@ public:: true
 	- ### Theorem
 	  The ring $\Z / n\Z$ is a field $\Leftrightarrow$ n is a prime
 -
--
+- ## Eigen vectors
+	- ### definition
+		- let T be an operator on V
+		- we call a nonzero vector v
+		  logseq.order-list-type:: number
