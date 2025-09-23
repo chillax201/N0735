@@ -25,3 +25,6 @@ public:: true
 	- the level set of a conserved quantity is a union of trajectories
 -
 - moment of refers to left cross multiplying by r
+-
+- collision or scattering of particles :
+	- collis
