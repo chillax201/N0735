@@ -153,5 +153,5 @@ public:: true
 - ## Eigen vectors
 	- ### definition
 		- let T be an operator on V
-		- we call a nonzero vector v
+		- we call a nonzero vector $v\in V$ an eigenvector of $T$ if $T(v) = \lambda v$
 		  logseq.order-list-type:: number
