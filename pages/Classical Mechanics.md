@@ -32,4 +32,4 @@ public:: true
 	- at intermediate times they are subject to forces of interaction
 -
 - ## Hamiltonian
-	- Energy in terms of position
+	- Energy in terms of position $x$ and momentum $p$ is called the hamiltonian $H(x,p)$
